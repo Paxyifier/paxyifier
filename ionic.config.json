@@ -1,0 +1,7 @@
+{
+  "name": "paxyifier",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
